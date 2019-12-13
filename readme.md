@@ -7,3 +7,4 @@
 - [BVN.404Handler](https://nuget.episerver.com/package/?id=BVN.404Handler) - The popular 404 handler for EPiServer, enabling better control over your 404 page in addition to allowing redirects for old urls that no longer works.
 - [Geta.SEO.Sitemaps](https://nuget.episerver.com/package/?id=Geta.SEO.Sitemaps) - Search Engine Sitemap generator for EPiServer.
 - [ImageResizer.Plugins.EPiServerBlobReader](https://nuget.episerver.com/package/?id=ImageResizer.Plugins.EPiServerBlobReader) - ImageResizer library plugins for your Episerver site.
+- [EPiServer.Labs.BlockEnhancements](https://nuget.episerver.com/package/?id=EPiServer.Labs.BlockEnhancements) - Collection of useful enhancements around Block Publishing process.
